@@ -10,12 +10,8 @@ Fonctionnalités principales :
 Validation et Envoi : Lors du clic sur le bouton "Envoyer", les données sont récupérées et transmises à l'activité suivante.
 🎥 Démonstration Vidéo
 Tu trouveras ci-dessous le lien vers la vidéo de démonstration montrant le fonctionnement complet de l'application
-<div align="center">
-  <h3>🎥 Démonstration Vidéo</h3>
-  <video src="lab3.mp4" width="300" controls>
-    Votre navigateur ne supporte pas la lecture de vidéos.
-  </video>
-</div>
 
+
+<h3>https://github.com/user-attachments/assets/7daf6c98-6bc4-4703-9f7f-502f9a006bc6</h3>
 
 
