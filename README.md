@@ -34,7 +34,4 @@ L'objectif est de créer une interface de saisie d'informations personnelles et 
 
 ---
 
-## 🚀 Installation & Test
-1. **Cloner le projet** :
-   ```bash
-   git clone [https://github.com/votre-utilisateur/votre-depot.git](https://github.com/votre-utilisateur/votre-depot.git)
+
